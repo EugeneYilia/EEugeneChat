@@ -9,9 +9,6 @@ import io.vertx.ext.web.Session;
 import java.util.List;
 
 public class UserController {
-    public static void handleAuth(RoutingContext routingContext){
-
-    }
 
     public static void handleLogin(RoutingContext routingContext) {
         String id = routingContext.request().getParam("id"); // 从上下文获取请求参数，类似于从httprequest中获取parameter一样
