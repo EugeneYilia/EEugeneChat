@@ -1,0 +1,7 @@
+1.根据cookie获取到对应的session                    			√
+2.将找不到资源的访问重定向到expiration，404页面    			√  
+3.创建指定时长销毁的session                        			√
+4.分离出dao层                                      			√ 
+5.netty的write error            加上end                                 √                                    
+6.前端的制作，画出图(放到正确的位置上)                                  √                  
+7.前后端的交互                                                          √
